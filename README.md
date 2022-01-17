@@ -10,4 +10,4 @@ The initial attempts to build a Neural Network based classifier in Tensorflow  g
 
 Hence sought out the help of transfer learning using various pre trained models provided in keras/application.
 
-Among all the models , ResNet50 gave the highest accuracy. Hence in the notebooks provided inn the repo, the images are sliced into different set of train/validate/test images and the using the same config of the model , the accuyracy is checked.  
+Among all the models , ResNet50 gave the highest accuracy. Hence in the above notebooks , the images are sliced into different set of train/validate/test images and the using the same config of the model , the accuracy is checked. Variance of the model is understood.   
